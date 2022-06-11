@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+.container_photo {
+    width: 200px;
+    height: 250px;
+    margin: 0;
+}
+.container_name {
+    margin: 0;
+    padding: 40px 60px;
+    width: 500px;
+    height: 250px;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: center;
+    color: white;
+    background-color: salmon;
+}
+.container_name_container{
+    text-transform: uppercase;
+}
+.container_name_container_name {
+    font-size: 70px;
+    font-weight: 600;
+    margin: 0;
+}
+.container_name_container_surname{
+    font-size: 50px;
+}
+.container_name_prof {
+    margin: 0;
+    font-size: 20px;
+    color: black;
+}
+
+
+.container_block1 {
+    margin: 0;
+    width: 200px;
+    height: 450px;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: coral;
+}
+.container_block1_lvl_in{
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    color: white;
+}
+.container_block1_sampleCode_code {
+    text-transform: none;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    color: white;
+}
+.education_ed {
+    text-align: center;
+}
+.container_block2 {
+    margin: 0;
+    width: 500px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 20px;
+    background-color: lightcoral;
+}
+.container_block2_about_ab {
+    margin-top: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    color: white;
+}
+.container_block2_contacts {
+    margin: 0;
+}
+.container_block2_contacts_cont {
+    margin-top: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+.container_block2_english {
+    margin: 0;
+}
+.container_block2_english_eng {
+    margin-top: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
