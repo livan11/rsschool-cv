@@ -9,7 +9,6 @@ ___
 ___
 ### About Myself: ###
 Once I don’t remember how old I was, I saw the site *vkontakte.ru*, I was interested in how to make such a site, what is inside it, how it all works and how they worked on such a site, now I am 25 years old, I have free time to study Frontend, how they are created, how they work, how much you need to write code, and so on... Now that I know that Frontend development does not end with just creating websites, I want to delve into and understand Frontend even more. I studied at the STEP academy, where I was taught __HTML5, CSS3, JS, React__. But due to the fact that I tried to combine study and work, I could not remember and learn a lot, so I signed up for a course from __RSSchool__.
->
 ___
 ### My Skills: ###
 * __HTML, CSS__
