@@ -18,3 +18,20 @@ ___
 * __VS Code__
 >
 ___
+### Code example: ###
+`` let a = 'Hello '; ``
+`` let b = 'World'; ``
+`` let res = a + b; ``
+`` console.log(res); ``
+___
+### Courses: ###
+* __Academy Step__
+* __JavaScript Manual on learnjavascript.ru *(in progress)*__
+* __RS School Course «JavaScript/Front-end. Stage 0» *(in progress)*__
+>
+___
+### Languages: ###
+* __Russian - Native__
+* __Belorussian - Intermediate__
+* __Georgian - Intermediate__
+* __English - А1__
