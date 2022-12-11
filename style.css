@@ -121,3 +121,17 @@ body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 30px;
 }
+.contacts {
+    padding: 40px 0 20px;
+}
+.contacts__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contacts__list__item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
