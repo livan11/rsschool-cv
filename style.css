@@ -70,3 +70,54 @@ body {
     position: absolute;
     right: 37%;
 }
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.about {
+    max-width: 300px;
+}
+.about__header {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+.about__text {
+    font-family: 'Times New Roman', Times, serif;
+}
+.skills__header {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+.code__header {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+.code__text {
+}
+.courses {
+    max-width: 130px
+}
+.courses__header {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+.language__header {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
