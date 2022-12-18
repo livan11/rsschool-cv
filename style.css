@@ -122,7 +122,7 @@ body {
     line-height: 30px;
 }
 .contacts {
-    padding: 40px 0 20px;
+    padding: 25px 0 20px;
 }
 .contacts__list {
     display: flex;
@@ -130,8 +130,23 @@ body {
     justify-content: space-around;
     font-family: 'Times New Roman', Times, serif;
 }
-.contacts__list__item {
+.contacts__list__item > a {
     display: flex;
     align-items: center;
     gap: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.contact__list__rss {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+.link_git{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
